@@ -1,5 +1,5 @@
 <p align="right">
-
+    <a href="https://twitter.com/CesarJOtizM" target="blank"><img src="https://img.shields.io/twitter/follow/CesarJOtizM?logo=twitter&style=for-the-badge" alt="CesarJOtizM" />   </a>  
   <img align="left" src="https://komarev.com/ghpvc/?username=CesarJOtizM&label=Profile%20views&color=0e75b6&style=flat" alt="CesarJOtizM" /> 
 </p>
 
