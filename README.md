@@ -9,7 +9,7 @@
 <p align="justify">I am Front-end developer who seeks to continue improving skills and grow professionally.Passionate about team working and build new skills..</p>
 
 
-- 🌱 I’m currently learning **React Native and Scrum methodology**
+- 🌱 I’m currently learning **Docker and Flutter**
 
 - 📫 How to reach me **cesarjavierortizmontero@gmail.com**
 
