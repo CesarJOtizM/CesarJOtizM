@@ -30,15 +30,4 @@
 <br>
 <br>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/CesarJOtizM" target="blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="csarotz" height="30" width="40" />
- </a>
-<a href="https://www.linkedin.com/in/cesarjotizm/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cesarjavierortizmontero" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/cesarjotizm/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="csar_otz" height="30" width="40" />
- </a>
 </p>
