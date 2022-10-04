@@ -16,11 +16,6 @@
 **Discipline beats talent**  👨‍🎓
 <br>
 <br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CesarJOtizM&count_private=true&theme=dark" alt="cesarjoritzm" width="420" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarJOtizM&layout=compact&theme=dark"  alt="cesarjoritzm"  /> 
-</p>
-
 <br>
 <br>
 <br>
