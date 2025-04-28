@@ -34,6 +34,7 @@
 
 ## 📚 Education & Certifications
 
+- AWS Cloud Practitioner - AWS
 - Associate Degree in Accounting and Finance – SENA (Colombia)
 - Full Stack Web Development Certifications – Next U
 
