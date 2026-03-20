@@ -62,6 +62,18 @@ Accounting & Finance → Self-taught Developer → Full Stack Engineer → CEO &
 `Momento Seguros` → production bug resolution, API optimization
 `NevadaTech` → co-founded, architecting multi-tenant SaaS products
 
+## How I Use AI
+
+I direct, AI executes — the human always leads.
+
+AI is part of my daily workflow, but I don't use it to think for me. I design the architecture, define the domain, and make the decisions. Then I use AI to build faster with the clarity I've already established.
+
+- **Spec-Driven Development with Claude** — I use Claude Code with a custom SDD workflow: specs, design docs, and task breakdowns are defined first, then AI agents execute each phase. Architecture decisions are mine; implementation is accelerated.
+- **Pair programming with Cursor** — Real-time collaboration where I drive the direction and AI handles the boilerplate. I review every line — AI writes code, I own it.
+- **Where I've applied this** — Both the [Nevada Inventory System](https://github.com/CesarJOtizM/improved-parakeet) (7,749 tests, Hexagonal Architecture) and the [Meeting Scheduler](https://github.com/CesarJOtizM/didactic-doodle) (pure LRU algorithm) were built with this workflow.
+
+> *AI doesn't replace understanding — it amplifies it. If you don't know what you're building, AI will just help you build the wrong thing faster.*
+
 ## Philosophy
 
 > *"Don't touch a single line of code until you understand the concepts. Frameworks change; principles don't."*
