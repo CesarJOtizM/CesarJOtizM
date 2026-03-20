@@ -1,49 +1,79 @@
-<p align="right">
-   <a href="https://twitter.com/CesarJOtizM" target="blank"><img src="https://img.shields.io/twitter/follow/CesarJOtizM?logo=twitter&style=for-the-badge" alt="CesarJOtizM" />   </a>  
-  <img align="left" src="https://komarev.com/ghpvc/?username=CesarJOtizM&label=Profile%20views&color=0e75b6&style=flat" alt="CesarJOtizM" /> 
-</p>
+<div align="center">
 
-# 👋 Hi, I'm César Ortiz
+# Cesar Ortiz
 
-**Full Stack Developer & Frontend Tech Lead** with 5 years of experience building modern digital products. I specialize in the **JavaScript/TypeScript** ecosystem, driving technical decisions and creating scalable solutions with a strong focus on user experience, maintainability, and performance.
+**From Accounting to Building Enterprise SaaS Products**
 
-## 🚀 About Me
+Full Stack Developer & CEO at [NevadaTech](https://www.nevadatech.co/) · AWS Certified · Santa Marta, Colombia
 
-- 💻 Focused on frontend development with **React**, **Next.js**, and **Node.js** on the backend.
-- ☁️ Currently preparing to work with **cloud infrastructure (AWS)** and modern **CI/CD** practices.
-- 🧠 Strong technical judgment to make sustainable architectural decisions.
-- 🔍 Passionate about clean code, accessibility, performance, and engineering best practices.
-- 🤝 I work closely with UX/UI design, Agile methodologies, and high-impact product teams.
-- 🔧 Enthusiastic about reusable components, design systems, and fully typed codebases.
+I don't start with code — I start with the problem. Architecture, domain modeling, and business understanding come first. Then I build.
 
-## 🛠 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-ortiz-m/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://cesar-ortiz-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cesarjavierortizmontero@gmail.com)
 
-**Frontend**
-- React.js, Next.js, TypeScript
-- Styled-components, SCSS, TailwindCSS
-- Lexical (custom editor plugins)
-
-**Backend**
-- Node.js, Express, GraphQL (Apollo)
-- PostgreSQL, MongoDB, Prisma
-
-**DevOps & Tools**
-- Git, GitHub, AWS (S3, IAM, EC2 in progress)
-- CI/CD (GitHub Actions, deployment automation practice)
-- Jira, Slack, Scrum
-
-## 📚 Education & Certifications
-
-- AWS Cloud Practitioner - AWS
-- Associate Degree in Accounting and Finance – SENA (Colombia)
-- Full Stack Web Development Certifications – Next U
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cesar-ortiz-m/)
-- 📧 cesarjavierortizmontero@gmail.com
+</div>
 
 ---
 
-_Building clean and scalable solutions for modern teams._ ✨
+## What I Do
 
+- **CEO & Co-Founder at NevadaTech** — Digital transformation company serving clients in fintech, healthcare, e-commerce, and education across LatAm
+- **Full Stack Developer at Momento Seguros** — Building features, optimizing APIs, and resolving production issues for an insurance platform
+- **Architect first, coder second** — Clean Architecture, Hexagonal, DDD, Screaming Architecture. The folder structure should scream the domain, not the framework
+
+## Featured Projects
+
+| Project | What I Built | Key Numbers |
+|---------|-------------|-------------|
+| **[Nevada Inventory System](https://github.com/CesarJOtizM/improved-parakeet)** | Multi-tenant SaaS with RBAC (80+ permissions), VTEX e-commerce integration, and 17 report types. Hexagonal Architecture + DDD. | `7,749 tests` · `97% coverage` |
+| **[Meeting Scheduler](https://github.com/CesarJOtizM/didactic-doodle)** | Pure LRU rotation algorithm for fair assignment distribution. Zero side effects, deterministic engine, printable forms. | `3 meeting types` · `pure functions` |
+| **[NevadaTech](https://www.nevadatech.co/)** | Co-founded a tech company. Led architecture decisions, built the team, delivered for clients like Bambu Coliving, ToPra, FZ Academia. | `4+ clients` · `3 co-founders` |
+
+## How I Think
+
+```
+01 → Understand the domain before writing a single line
+02 → Define bounded contexts and clear interfaces
+03 → Choose patterns intentionally — the right tool, not the trendy one
+04 → Tests aren't an afterthought — they're part of the design
+05 → Ship and iterate, but never sacrifice architecture for speed
+```
+
+## Tech Stack
+
+**Build with** · React · Next.js · Angular · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · Redis
+
+**Architecture** · Clean Architecture · Hexagonal · DDD · Screaming Architecture · CQRS
+
+**Ship with** · AWS · Docker · Vercel · GitHub Actions · CI/CD
+
+**Work in** · LazyVim · Tmux/Zellij · Git
+
+## Career Path
+
+```
+Accounting & Finance → Self-taught Developer → Full Stack Engineer → CEO & Co-Founder
+```
+
+`Frava Digital` → reduced response times by 40% through automation
+`MOX` → full-stack with React + GraphQL + Apollo
+`Flou` → built custom Lexical editor plugins, led sprint planning
+`Momento Seguros` → production bug resolution, API optimization
+`NevadaTech` → co-founded, architecting multi-tenant SaaS products
+
+## Philosophy
+
+> *"Don't touch a single line of code until you understand the concepts. Frameworks change; principles don't."*
+
+- **Concepts > Code** — Understand WHY before writing HOW
+- **Foundations before frameworks** — Design patterns, TypeScript, bundlers — then React
+- **Build products, not projects** — Business impact, user experience, maintainability
+
+---
+
+<div align="center">
+
+**AWS Cloud Practitioner** · Building clean and scalable solutions for modern teams
+
+</div>
